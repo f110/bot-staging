@@ -1,0 +1,6 @@
+master_branch: master
+dir: /dns
+secret:
+  env_name: GCLOUD_PRIVATE_KEY
+  name: dnscontrol-secret
+  key: privatekey.pem
