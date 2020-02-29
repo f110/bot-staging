@@ -12,5 +12,6 @@ D('f110.dev', REG_NONE, DnsProvider(DNS_GCLOUD),
     A('static-discord-bot', '60.69.247.138'),
     A('vpn', '60.69.247.138'),
     A('dns', '60.69.247.138'),
-    A('bot-object', '60.69.247.138')
+    A('bot-object', '60.69.247.138'),
+    A("test", "192.168.0.1")
 );
